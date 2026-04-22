@@ -1,11 +1,10 @@
-// Kita gak pake ngetik satu-satu, kita deklarasiin pin awal dan akhir
+// deklarasiin pin awal dan akhir
 int pinAwal = 2;
 int pinAkhir = 11;
-int waktuJeda = 350; // Kecepatan lari LED-nya (satuan milidetik). Makin kecil makin ngebut!
+int waktuJeda = 350; // Kecepatan lari LED-nya (satuan milidetik).
 
 void setup() {
   // Looping buat ngatur pin D2 sampai D11 jadi OUTPUT semua
-  // Anak teknik ngodingnya begini, sekali ngetik beres 10 pin 😎
   for (int pin = pinAwal; pin <= pinAkhir; pin++) {
     pinMode(pin, OUTPUT);
   }

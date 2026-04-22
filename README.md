@@ -1,6 +1,6 @@
 # ⚡ Mikroprosesor dan Mikrokontroler
 
-Kumpulan projek *embedded system* dan mikrokontroler menggunakan **Arduino Nano (ATmega328P)**. Repository ini berisi berbagai eksperimen *hardware* dan *software* sebagai bagian dari pembelajaran dan inovasi. 
+Projek *embedded system* dan mikrokontroler menggunakan **Arduino Nano (ATmega328P)**. Repository ini berisi berbagai eksperimen *hardware* dan *software* sebagai bagian dari pembelajaran dan inovasi. 
 
 ## 📂 Daftar Projek
 
@@ -16,4 +16,3 @@ Projek kontrol multi-output digital menggunakan konsep perulangan (*looping* / `
 * **Pin Digital:** D2 sampai D11.
 
 ---
-*Dibuat dengan setetes keringat dan sedikit tragedi kabel panas.* 🔥
